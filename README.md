@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -1319,7 +1317,7 @@
                     <div class="contact-icon"><i class="fas fa-location-dot"></i></div>
                     <div>
                         <h5>Location</h5>
-                        <p>Spintex Road, Community 18<br>Accra, Greater Accra, Ghana</p>
+                        <p>North Kaneshie, Community 18<br>Accra, Greater Accra, Ghana</p>
                     </div>
                 </div>
                 <div class="contact-detail">
